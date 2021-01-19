@@ -90,12 +90,12 @@ export default class Login extends React.Component {
                             <View style={[styles.nav]}>
                                 <View style={styles.box}>
                                     <TouchableOpacity activeOpacity={0.7} style={styles.innerBox}>
-                                        <Image source={require('../../assets/facebook.png')} style={styles.social} />
+                                        <Image source={require('../../assets/Facebook.png')} style={styles.social} />
                                     </TouchableOpacity>
                                 </View>
                                 <View style={styles.box}>
                                     <TouchableOpacity activeOpacity={0.7} style={styles.innerBox}>
-                                        <Image source={require('../../assets/google.png')} style={styles.social} />
+                                        <Image source={require('../../assets/Google.png')} style={styles.social} />
                                     </TouchableOpacity>
                                 </View>
                                 <View style={styles.box}>
